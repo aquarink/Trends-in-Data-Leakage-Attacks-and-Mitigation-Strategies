@@ -125,6 +125,7 @@ TDI = \beta_{\text{attack}} - \beta_{\text{mitigation}}
 
 Used to operationalize the concept of *research response lag*.
 
+If the notebook won't open, visit https://drive.google.com/file/d/18LHnvjryBiUSXAwLK_UCW8glfAU4QoPF/view?usp=sharing for direct access to Google Colab.
 ---
 
 ## 🔁 Robustness Check
