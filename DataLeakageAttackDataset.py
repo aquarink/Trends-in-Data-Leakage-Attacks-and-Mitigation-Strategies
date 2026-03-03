@@ -9,10 +9,10 @@ Original file is located at
 
 # # DOWNLOAD
 
-# !pip install gensim
-# !pip install spacy
-# !python -m spacy download en_core_web_sm
-# !pip install bertopic sentence-transformers umap-learn hdbscan
+!pip install gensim
+!pip install spacy
+!python -m spacy download en_core_web_sm
+!pip install bertopic sentence-transformers umap-learn hdbscan
 
 # INIT
 
